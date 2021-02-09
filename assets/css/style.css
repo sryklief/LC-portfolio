@@ -542,16 +542,16 @@ html, body {
 
 .icon {
     line-height: 60px;
-    padding: 9px 11px;
+    padding: 9px 0px 0px 10px;
     font-size: 28px;
-    color: rgb(0, 0, 0);
+    color: #212121;
     /* border: 1px solid #fff; */
     border-radius: 50%;
 }
 
-.icon + .icon {
+/* .icon + .icon {
     margin-left: 5px;
-}
+} */
 
 .icon i:before {
     margin:0;
