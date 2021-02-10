@@ -529,6 +529,7 @@ html, body {
     margin-top: 40px;
 }
 
+
 /* FOOTER
 ================================================== */
 .site-footer {
@@ -557,6 +558,34 @@ html, body {
     /* border: 1px solid #fff; */
     border-radius: 50%;
 }
+
+.icons {
+    font-size: 75px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 2rem;
+ }
+ 
+ .fa-html5 {
+    color: grey;
+ }
+ 
+ .fa-css3-alt {
+    color: grey;
+ }
+ 
+ .fa-js {
+    color: grey;
+ }
+ 
+ .fa-react {
+    color: grey;
+ }
+ 
+ .fa-python {
+    color: grey;
+ }
+
 
 /* .icon + .icon {
     margin-left: 5px;
@@ -596,4 +625,30 @@ a.icon-up-bg:hover {color: #ffffff;}
     width: 350px;
     height: 350px;
     margin-left: 10rem;
+}
+
+.service{
+    text-align: justify;
+}
+
+.education{
+    text-align: right;
+}
+
+.education h4 {
+    margin: 25px 0;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.education p {
+    color: #000;
+    margin-bottom: 0;
+}
+
+.team-member {
+    margin-bottom: 3rem;
+    text-align: center;
+    padding: 2rem;
+
 }
