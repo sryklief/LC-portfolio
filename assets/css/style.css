@@ -644,3 +644,8 @@ a.icon-up-bg:hover {color: #ffffff;}
     padding: 2rem;
 
 }
+
+.test-pic{
+    border-radius: 50%;
+    height: 200px;
+}
